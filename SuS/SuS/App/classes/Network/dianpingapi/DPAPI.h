@@ -33,8 +33,8 @@
 #define kDPAPIDomain				@"http://api.dianping.com/"
 #define kSuSDomain                  @"#"
 
-#define kDPAppKey             @"0361709085"
-#define kDPAppSecret          @"91d0ef2b40684c70a900f900f99f351f"
+#define kDPAppKey             @"AppKey"
+#define kDPAppSecret          @"AppSecret"
 
 #endif
 
